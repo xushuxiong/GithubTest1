@@ -10,8 +10,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            测试github<br />
-            回退版本展示</div>
+            测试github</div>
     </form>
 </body>
 </html>
